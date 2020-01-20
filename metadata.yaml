@@ -1,0 +1,4 @@
+homepage: "https://github.com/precariostecnicos/OutbrainEnhanced"
+versions:
+  - sha: fd8c54c76cb449985bd383eece46eae221509406
+    changeNotes: Initial release.
