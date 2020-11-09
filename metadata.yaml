@@ -1,4 +1,5 @@
-homepage: "https://github.com/precariostecnicos/OutbrainEnhanced"
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/tags/outbrain-enhanced/"
 versions:
   - sha: fd8c54c76cb449985bd383eece46eae221509406
     changeNotes: Initial release.
