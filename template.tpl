@@ -131,7 +131,7 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "LABEL",
     "name": "customInfo",
-    "displayName": "\u003ca href\u003d\"https://github.com/precariostecnicos/OutbrainEnhanced\"\u003eInfo \u003c/a\u003e"
+    "displayName": "\u003ca href\u003d\"https://www.luratic.com/posts/templates/tags/outbrain-enhanced\"\u003eInfo \u003c/a\u003e"
   }
 ]
 
