@@ -1,5 +1,9 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/tags/outbrain-enhanced/"
 versions:
+  # Latest version
+  - sha: 72c9a5f7c3f8dd1ce2e0e0524676ecb7924ab927
+    changeNotes: Improve and update documentation.
+  # Older versions  
   - sha: fd8c54c76cb449985bd383eece46eae221509406
     changeNotes: Initial release.
